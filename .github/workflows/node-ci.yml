@@ -1,4 +1,4 @@
-name: Node-CLi CI
+name: Node-cli CI
 
 on:
   push:
