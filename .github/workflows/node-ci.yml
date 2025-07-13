@@ -1,4 +1,4 @@
-name: Node-cli CI
+name: Node.js CI
 
 on:
   push:
@@ -24,6 +24,3 @@ jobs:
 
       - name: Run tests
         run: npm test
-
-      - name: Run tests
-        run: npx jest
