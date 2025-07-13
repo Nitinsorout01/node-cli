@@ -3,14 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "jest"
-=======
-  "test": "npx jest"
-}
-
-
->>>>>>> bd296798ec74bf25b9abfbe55476e1799a1d9ab1
+    "test": "npx jest"
   },
   "keywords": [],
   "devDependencies": {
